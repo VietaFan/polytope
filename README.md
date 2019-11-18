@@ -1,7 +1,7 @@
 # polytope
-An automatic testing program for debugging competitive programming solutions (e.g. for things like Codeforces, etc. where using pre-existing code is ok). In development...
+An automatic testing program for debugging competitive programming solutions.
 
-(The name is inspired by Codeforces's Polygon platform, and since I happen to be studying polytopes in my combinatorics class.)
+(The name is inspired by Codeforces's Polygon platform, and since I happen to be studying polytopes in my combinatorics class. Also the goal is to catch edge cases and corner cases where your program fails and polytopes literally have edges and corners.)
 
 usage: 
 ** put the files ptcompare.cpp, polytope.py, and ptgen.py in whichever folder has your solution source files
